@@ -1,4 +1,4 @@
-<?php
+git push -u origin master<?php
 
 namespace Tests\Feature;
 
